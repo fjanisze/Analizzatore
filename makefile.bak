@@ -1,0 +1,1 @@
+g++ -std=c++0x analizzatore.hpp analizzatore.cpp -o analizzatore.exe

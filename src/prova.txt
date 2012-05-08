@@ -1,0 +1,60 @@
+0000000 < Tue May 01 13:34:16 201 - 000004 > ~ <LOGGER> :syslog_file::syslog_file(): Increasing 'vector' capacity to 100000 from 0
+0000001 < Tue May 01 13:34:16 201 - 000004 > ~ <LOGGER> :syslog_file::read_all_log(): Trying to read all the logs
+0000002 < Tue May 01 13:34:16 201 - 000004 > ~ <LOGGER> :syslog_file::find_syslog_files(): Seeking for syslog files!
+0000003 < Tue May 01 13:34:16 201 - 000004 > ~ <LOGGER> :syslog_file::find_syslog_files(): I found 10 syslog files!
+0000004 < Tue May 01 13:34:16 201 - 000004 > ~ <LOGGER> :syslog_file::read_log(): Reading SYSLOG_001.LOG
+0000005 < Tue May 01 13:34:16 201 - 000004 > ~ <LOGGER> :syslog_file::open(): Opening file "SYSLOG_001.LOG"...
+0000006 < Tue May 01 13:34:16 201 - 000005 > ~ <LOGGER> :syslog_file::open(): OK!
+0000007 < Tue May 01 13:34:16 201 - 000005 > ~ <LOGGER> :syslog_file::read_log(): The log is properly opened and ready to be readed!
+0000008 < Tue May 01 13:34:16 201 - 000109 > ~ <LOGGER> :syslog_file::read_log(): number of lines available from SYSLOG_001.LOG is 49161; Ignored lines :125
+0000009 < Tue May 01 13:34:16 201 - 000109 > ~ <LOGGER> :syslog_file::calibrate_logline_container(): Increasing threshold to 491610 from 100000
+0000010 < Tue May 01 13:34:16 201 - 000111 > ~ <LOGGER> :syslog_file::read_log(): Reading SYSLOG_002.LOG
+0000011 < Tue May 01 13:34:16 201 - 000111 > ~ <LOGGER> :syslog_file::open(): Opening file "SYSLOG_002.LOG"...
+0000012 < Tue May 01 13:34:16 201 - 000111 > ~ <LOGGER> :syslog_file::open(): OK!
+0000013 < Tue May 01 13:34:16 201 - 000111 > ~ <LOGGER> :syslog_file::read_log(): The log is properly opened and ready to be readed!
+0000014 < Tue May 01 13:34:16 201 - 000200 > ~ <LOGGER> :syslog_file::read_log(): number of lines available from SYSLOG_002.LOG is 49141; Ignored lines :67
+0000015 < Tue May 01 13:34:16 201 - 000200 > ~ <LOGGER> :syslog_file::read_log(): Reading SYSLOG_003.LOG
+0000016 < Tue May 01 13:34:16 201 - 000200 > ~ <LOGGER> :syslog_file::open(): Opening file "SYSLOG_003.LOG"...
+0000017 < Tue May 01 13:34:16 201 - 000200 > ~ <LOGGER> :syslog_file::open(): OK!
+0000018 < Tue May 01 13:34:16 201 - 000200 > ~ <LOGGER> :syslog_file::read_log(): The log is properly opened and ready to be readed!
+0000019 < Tue May 01 13:34:16 201 - 000285 > ~ <LOGGER> :syslog_file::read_log(): number of lines available from SYSLOG_003.LOG is 49350; Ignored lines :167
+0000020 < Tue May 01 13:34:16 201 - 000285 > ~ <LOGGER> :syslog_file::calibrate_logline_container(): Increasing threshold to 493500 from 491610
+0000021 < Tue May 01 13:34:16 201 - 000292 > ~ <LOGGER> :syslog_file::read_log(): Reading SYSLOG_004.LOG
+0000022 < Tue May 01 13:34:16 201 - 000292 > ~ <LOGGER> :syslog_file::open(): Opening file "SYSLOG_004.LOG"...
+0000023 < Tue May 01 13:34:16 201 - 000292 > ~ <LOGGER> :syslog_file::open(): OK!
+0000024 < Tue May 01 13:34:16 201 - 000292 > ~ <LOGGER> :syslog_file::read_log(): The log is properly opened and ready to be readed!
+0000025 < Tue May 01 13:34:16 201 - 000381 > ~ <LOGGER> :syslog_file::read_log(): number of lines available from SYSLOG_004.LOG is 49430; Ignored lines :81
+0000026 < Tue May 01 13:34:16 201 - 000381 > ~ <LOGGER> :syslog_file::calibrate_logline_container(): Increasing threshold to 494300 from 493500
+0000027 < Tue May 01 13:34:16 201 - 000390 > ~ <LOGGER> :syslog_file::read_log(): Reading SYSLOG_005.LOG
+0000028 < Tue May 01 13:34:16 201 - 000390 > ~ <LOGGER> :syslog_file::open(): Opening file "SYSLOG_005.LOG"...
+0000029 < Tue May 01 13:34:16 201 - 000390 > ~ <LOGGER> :syslog_file::open(): OK!
+0000030 < Tue May 01 13:34:16 201 - 000390 > ~ <LOGGER> :syslog_file::read_log(): The log is properly opened and ready to be readed!
+0000031 < Tue May 01 13:34:16 201 - 000471 > ~ <LOGGER> :syslog_file::read_log(): number of lines available from SYSLOG_005.LOG is 49246; Ignored lines :79
+0000032 < Tue May 01 13:34:16 201 - 000471 > ~ <LOGGER> :syslog_file::read_log(): Reading SYSLOG_006.LOG
+0000033 < Tue May 01 13:34:16 201 - 000471 > ~ <LOGGER> :syslog_file::open(): Opening file "SYSLOG_006.LOG"...
+0000034 < Tue May 01 13:34:16 201 - 000471 > ~ <LOGGER> :syslog_file::open(): OK!
+0000035 < Tue May 01 13:34:16 201 - 000471 > ~ <LOGGER> :syslog_file::read_log(): The log is properly opened and ready to be readed!
+0000036 < Tue May 01 13:34:16 201 - 000551 > ~ <LOGGER> :syslog_file::read_log(): number of lines available from SYSLOG_006.LOG is 49126; Ignored lines :71
+0000037 < Tue May 01 13:34:16 201 - 000551 > ~ <LOGGER> :syslog_file::read_log(): Reading SYSLOG_007.LOG
+0000038 < Tue May 01 13:34:16 201 - 000551 > ~ <LOGGER> :syslog_file::open(): Opening file "SYSLOG_007.LOG"...
+0000039 < Tue May 01 13:34:16 201 - 000551 > ~ <LOGGER> :syslog_file::open(): OK!
+0000040 < Tue May 01 13:34:16 201 - 000551 > ~ <LOGGER> :syslog_file::read_log(): The log is properly opened and ready to be readed!
+0000041 < Tue May 01 13:34:16 201 - 000672 > ~ <LOGGER> :syslog_file::read_log(): number of lines available from SYSLOG_007.LOG is 50022; Ignored lines :2319
+0000042 < Tue May 01 13:34:16 201 - 000673 > ~ <LOGGER> :syslog_file::calibrate_logline_container(): Increasing threshold to 500220 from 494300
+0000043 < Tue May 01 13:34:17 201 - 000687 > ~ <LOGGER> :syslog_file::read_log(): Reading SYSLOG_008.LOG
+0000044 < Tue May 01 13:34:17 201 - 000687 > ~ <LOGGER> :syslog_file::open(): Opening file "SYSLOG_008.LOG"...
+0000045 < Tue May 01 13:34:17 201 - 000687 > ~ <LOGGER> :syslog_file::open(): OK!
+0000046 < Tue May 01 13:34:17 201 - 000687 > ~ <LOGGER> :syslog_file::read_log(): The log is properly opened and ready to be readed!
+0000047 < Tue May 01 13:34:17 201 - 000762 > ~ <LOGGER> :syslog_file::read_log(): number of lines available from SYSLOG_008.LOG is 48936; Ignored lines :101
+0000048 < Tue May 01 13:34:17 201 - 000762 > ~ <LOGGER> :syslog_file::read_log(): Reading SYSLOG_009.LOG
+0000049 < Tue May 01 13:34:17 201 - 000762 > ~ <LOGGER> :syslog_file::open(): Opening file "SYSLOG_009.LOG"...
+0000050 < Tue May 01 13:34:17 201 - 000763 > ~ <LOGGER> :syslog_file::open(): OK!
+0000051 < Tue May 01 13:34:17 201 - 000763 > ~ <LOGGER> :syslog_file::read_log(): The log is properly opened and ready to be readed!
+0000052 < Tue May 01 13:34:17 201 - 000846 > ~ <LOGGER> :syslog_file::read_log(): number of lines available from SYSLOG_009.LOG is 48955; Ignored lines :133
+0000053 < Tue May 01 13:34:17 201 - 000846 > ~ <LOGGER> :syslog_file::read_log(): Reading SYSLOG_010.LOG
+0000054 < Tue May 01 13:34:17 201 - 000846 > ~ <LOGGER> :syslog_file::open(): Opening file "SYSLOG_010.LOG"...
+0000055 < Tue May 01 13:34:17 201 - 000846 > ~ <LOGGER> :syslog_file::open(): OK!
+0000056 < Tue May 01 13:34:17 201 - 000846 > ~ <LOGGER> :syslog_file::read_log(): The log is properly opened and ready to be readed!
+0000057 < Tue May 01 13:34:17 201 - 000932 > ~ <LOGGER> :syslog_file::read_log(): number of lines available from SYSLOG_010.LOG is 48937; Ignored lines :65
+0000058 < Tue May 01 13:34:17 201 - 000932 > ~ <LOGGER> :syslog_file::read_all_log(): After 10 log file has been readed, 492304 lines are ready to be analysed!
+0000059 < Tue May 01 13:34:17 201 - 000932 > ~ <LOGGER> :syslog_file::read_all_log(): Max line lenght is 556 Min is 0

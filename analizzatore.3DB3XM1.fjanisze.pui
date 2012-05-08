@@ -1,0 +1,39 @@
+[Open Files]
+Active File Display Mode=3
+Open File Line0=0
+Open File Line1=0
+Open File Line2=0
+Open File Line3=0
+Open File Line4=0
+Open File Line5=0
+Open File Line6=0
+Open File Pos0=93
+Open File Pos1=19
+Open File Pos2=146
+Open File Pos3=0
+Open File Pos4=0
+Open File Pos5=138
+Open File Pos6=25
+Open File Window Pos0=0,1,-1,-1,-4,-23,88,88,1203,722
+Open File Window Pos1=0,1,-1,-1,-4,-23,110,110,1225,746
+Open File Window Pos2=0,1,-1,-1,-4,-23,44,44,1159,680
+Open File Window Pos3=0,1,-1,-1,-4,-23,88,88,1203,724
+Open File Window Pos4=0,1,-1,-1,-4,-23,110,110,1225,746
+Open File Window Pos5=0,1,-1,-1,-4,-23,132,132,1247,768
+Open File Window Pos6=0,1,-1,-1,-4,-23,154,154,1269,790
+Open File0=D:\Work\Analizzatore\src\analizzatore.cpp
+Open File1=D:\Work\Analizzatore\src\analizzatore.hpp
+Open File2=D:\Work\Analizzatore\src\configurations.hpp
+Open File3=D:\Work\Analizzatore\src\io_services.cpp
+Open File4=D:\Work\Analizzatore\src\io_services.hpp
+Open File5=D:\Work\Analizzatore\src\memory.hpp
+Open File6=D:\Work\Analizzatore\src\memory.cpp
+Open File7=
+Remember Files=1
+
+[Project Information]
+Project Start=DC070300030015000B002E00150000004C
+Working Time=207098
+
+[Folders]
+.\src\=1

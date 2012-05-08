@@ -1,0 +1,3 @@
+0000000 < Tue Apr 17 11:02:45 201 - 1 > ~  ERROR: Brutal error!!
+0000001 < Tue Apr 17 11:02:45 201 - 3 > ~  ERROR: Porco DIO!!
+0000002 < Tue Apr 17 11:02:45 201 - 3 > ~  WARNING: La puttana suina!

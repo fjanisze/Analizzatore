@@ -1,0 +1,60 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Allocator	memory.hpp	/^	class Allocator$/;"	c	namespace:memory
+FREE	memory.hpp	/^		enum memory_state { OWNED = 0, FREE };$/;"	e	enum:memory::memory_manager::memory_state
+INVALID_MEMORY_HANDLER	memory.hpp	6;"	d
+L4	memory.s	/^L4:$/;"	l
+LFB1334	memory.s	/^LFB1334:$/;"	l
+LFB1345	memory.s	/^LFB1345:$/;"	l
+LFB1354	memory.s	/^LFB1354:$/;"	l
+LFB1355	memory.s	/^LFB1355:$/;"	l
+LFB1356	memory.s	/^LFB1356:$/;"	l
+LFE1334	memory.s	/^LFE1334:$/;"	l
+LFE1345	memory.s	/^LFE1345:$/;"	l
+LFE1354	memory.s	/^LFE1354:$/;"	l
+LFE1355	memory.s	/^LFE1355:$/;"	l
+LFE1356	memory.s	/^LFE1356:$/;"	l
+OWNED	memory.hpp	/^		enum memory_state { OWNED = 0, FREE };$/;"	e	enum:memory::memory_manager::memory_state
+SYSLOG_FILE_FORMAT	configurations.hpp	7;"	d
+__GLOBAL__sub_I_main	memory.s	/^__GLOBAL__sub_I_main:$/;"	l
+__Z41__static_initialization_and_destruction_0ii	memory.s	/^__Z41__static_initialization_and_destruction_0ii:$/;"	l
+__ZN6memory9AllocatorIPccE5allocEj	memory.s	/^__ZN6memory9AllocatorIPccE5allocEj:$/;"	l
+__ZStL13allocator_arg	memory.s	/^__ZStL13allocator_arg:$/;"	l
+__ZStL19piecewise_construct	memory.s	/^__ZStL19piecewise_construct:$/;"	l
+___tcf_0	memory.s	/^___tcf_0:$/;"	l
+_main	memory.s	/^_main:$/;"	l
+alloc	memory.hpp	/^		T* alloc()$/;"	f	class:memory::Allocator
+alloc	memory.hpp	/^		mem_ptr	alloc(std::size_t size)$/;"	f	class:memory::Allocator
+allocate	memory.hpp	/^	memory_handler memory_manager<alType>::allocate() throw()$/;"	f	class:memory::memory_manager
+allocate	memory.hpp	/^	memory_handler memory_manager<alType>::allocate(std::size_t size) throw()$/;"	f	class:memory::memory_manager
+allocator	memory.hpp	/^		alType allocator;$/;"	m	class:memory::memory_manager
+cur_handler_id	memory.hpp	/^		memory_handler cur_handler_id;$/;"	m	class:memory::memory_manager
+dealloc	memory.hpp	/^		void dealloc(mem_ptr mem)$/;"	f	class:memory::Allocator
+deallocate	memory.hpp	/^	void memory_manager<alType>::deallocate(const memory_handler& mh) throw()$/;"	f	class:memory::memory_manager
+find_compatible	memory.hpp	/^	memory_handler memory_manager<alType>::find_compatible(std::size_t size)$/;"	f	class:memory::memory_manager
+foo	memory.cpp	/^		foo()$/;"	f	struct:test::foo
+foo	memory.cpp	/^	struct foo$/;"	s	namespace:test	file:
+main	analizzatore.cpp	/^int main()$/;"	f
+main	memory.cpp	/^int main()$/;"	f
+mem_ptr	memory.hpp	/^		typedef typename alType::memory_pointer mem_ptr;$/;"	t	class:memory::memory_manager
+mem_ptr_type	memory.hpp	/^		typedef std::shared_ptr< typename alType::memory_unit > mem_ptr_type;$/;"	t	class:memory::memory_manager
+memory	memory.cpp	/^namespace memory$/;"	n	file:
+memory	memory.hpp	/^namespace memory$/;"	n
+memory_handler	memory.hpp	/^	typedef long memory_handler;$/;"	t	namespace:memory
+memory_manager	memory.hpp	/^		memory_manager() : cur_handler_id(1) {}$/;"	f	class:memory::memory_manager
+memory_manager	memory.hpp	/^	class memory_manager$/;"	c	namespace:memory
+memory_pointer	memory.hpp	/^		typedef mem_ptr   memory_pointer;$/;"	t	class:memory::Allocator
+memory_size	memory.hpp	/^		std::map< memory_handler, std::size_t >  memory_size;$/;"	m	class:memory::memory_manager
+memory_slabs	memory.hpp	/^		std::map< memory_handler, mem_ptr_type > memory_slabs; $/;"	m	class:memory::memory_manager
+memory_state	memory.hpp	/^		enum memory_state { OWNED = 0, FREE };$/;"	g	class:memory::memory_manager
+memory_state	memory.hpp	/^		std::map< memory_handler, unsigned >     memory_state;$/;"	m	class:memory::memory_manager
+memory_unit	memory.hpp	/^		typedef mem_block memory_unit;$/;"	t	class:memory::Allocator
+mystr	memory.cpp	/^		std::string mystr;$/;"	m	struct:test::foo	file:
+operator []	memory.hpp	/^	typename alType::memory_pointer memory_manager<alType>::operator[](const memory_handler& h)$/;"	f	class:memory::memory_manager
+size	memory.hpp	/^	std::size_t memory_manager<alType>::size(const memory_handler& mh)$/;"	f	class:memory::memory_manager
+test	memory.cpp	/^namespace test$/;"	n	file:
+~foo	memory.cpp	/^		~foo()$/;"	f	struct:test::foo
